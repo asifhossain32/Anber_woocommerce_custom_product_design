@@ -4,7 +4,7 @@
  * Plugin Name: Anber WooCommerce Custom Product Design
  * Description: A custom product design Plugin
  * Version: 1.0
- * Author: Md Yeasir Arafat
+ * Author: MOHAMMAD ASIF HOSSAIN
  */
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
